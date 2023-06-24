@@ -126,7 +126,7 @@ main h2{
     font-size: 1.3em;
 }
 nav > a {
-    color:var(--cor1);
+    color:white;
     padding: 10px;
     text-decoration: none;
     font-weight: bold;
@@ -135,7 +135,7 @@ nav > a {
 }
 nav  a:hover{
     color: var(--cor5);
-    background-color: var(--cor3);
+    background-color: var(--cor2);
     text-decoration: underline;
     
 }
